@@ -8,20 +8,24 @@
 
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="main.css">
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
+    <link rel="stylesheet" href="main.css">
     <script src="./js/main.js"></script>
+
     <title>DungeonChecker</title>
 </head>
 <body>
 <div class="container">
     <h1>DungeonChecker</h1>
 
-    <p class="lead">Check off the Dungeons you completed today.
-        <button class="btn btn-default" onclick="clearAllData()">Clear all.</button>
+    <p class="lead">Einfach abhaken was du heute geschafft hast.
+        <button class="btn btn-default" onclick="clearAllData()">Alles reseten.</button>
     </p>
+    <div id="alert-container"></div>
 
     <div id="dungeontable">
 

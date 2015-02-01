@@ -1,0 +1,9 @@
+.post-image {
+    background: black;
+    opacity: 0.8;
+    margin: 0 auto;
+    margin-top: -54px;
+    text-align: center;
+    width: 100%;
+    color: white !important;
+}
