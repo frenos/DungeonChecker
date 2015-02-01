@@ -147,6 +147,32 @@
           "rewardGold": 300
         }
       ]
+    },
+    {
+      "title": "Fraktale",
+      "image": "./img/Fraktale_der_Nebel.jpg",
+      "paths": [
+        {
+          "name": "0-9",
+          "rewardGold": 300
+        },
+        {
+          "name": "10-19",
+          "rewardGold": 300
+        },
+        {
+          "name": "20-29",
+          "rewardGold": 150
+        },
+        {
+          "name": "30-39",
+          "rewardGold": 300
+        },
+        {
+          "name": "40-49",
+          "rewardGold": 300
+        }
+      ]
     }
   ]
 }
