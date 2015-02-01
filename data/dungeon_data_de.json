@@ -24,15 +24,15 @@
       "paths": [
         {
           "name": "Weg 1",
-          "rewardGold": 150
+          "rewardGold": 100
         },
         {
           "name": "Weg 2",
-          "rewardGold": 150
+          "rewardGold": 100
         },
         {
           "name": "Weg 3",
-          "rewardGold": 150
+          "rewardGold": 100
         }
       ]
     },
@@ -42,15 +42,15 @@
       "paths": [
         {
           "name": "Oben",
-          "rewardGold": 150
+          "rewardGold": 100
         },
         {
           "name": "Weiter",
-          "rewardGold": 150
+          "rewardGold": 100
         },
         {
           "name": "Aether",
-          "rewardGold": 150
+          "rewardGold": 200
         }
       ]
     },
@@ -60,15 +60,91 @@
       "paths": [
         {
           "name": "Weg 1",
-          "rewardGold": 150
+          "rewardGold": 100
         },
         {
           "name": "Weg 2",
-          "rewardGold": 150
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 100
+        }
+      ]
+    },
+    {
+      "title": "Flammenzitadelle",
+      "image": "./img/Flammenzitadelle_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 100
+        }
+      ]
+    },
+    {
+      "title": "Zierde der Wogen",
+      "image": "./img/Zierde_der_Wogen_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 100
+        }
+      ]
+    },
+    {
+      "title": "Schmelztiegel der Ewigkeit",
+      "image": "./img/Schmelztiegel_der_Ewigkeit_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 100
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 100
+        }
+      ]
+    },
+    {
+      "title": "Die Ruinenstadt Arah",
+      "image": "./img/Die_Ruinenstadt_Arah_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 300
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 300
         },
         {
           "name": "Weg 3",
           "rewardGold": 150
+        },
+        {
+          "name": "Weg 4",
+          "rewardGold": 300
         }
       ]
     }
