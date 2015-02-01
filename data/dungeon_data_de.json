@@ -1,0 +1,76 @@
+{
+  "dungeons": [
+    {
+      "title": "Katakomben von Ascalon",
+      "image": "./img/Katakomben_von_Ascalon_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 150
+        }
+      ]
+    },
+    {
+      "title": "Caudecus Anwesen",
+      "image": "./img/Caudecus'_Anwesen_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 150
+        }
+      ]
+    },
+    {
+      "title": "Zwielichtgarten",
+      "image": "./img/Zwielichtgarten_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Oben",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weiter",
+          "rewardGold": 150
+        },
+        {
+          "name": "Aether",
+          "rewardGold": 150
+        }
+      ]
+    },
+    {
+      "title": "Umarmung der Betrübnis",
+      "image": "./img/Umarmung_der_Betrübnis_Forschung.jpg",
+      "paths": [
+        {
+          "name": "Weg 1",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weg 2",
+          "rewardGold": 150
+        },
+        {
+          "name": "Weg 3",
+          "rewardGold": 150
+        }
+      ]
+    }
+  ]
+}
